@@ -1,1 +1,2 @@
 Security – Maintenance and restriction of access to files and commands, using methods such as passwords.
+System performance control – Monitoring overall health of systems for improving performance, by recording response times.
